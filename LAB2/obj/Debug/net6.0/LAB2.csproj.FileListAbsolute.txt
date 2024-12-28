@@ -12,3 +12,4 @@ D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\refint\LAB2.dll
 D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.pdb
 D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.genruntimeconfig.cache
 D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\ref\LAB2.dll
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.sourcelink.json
