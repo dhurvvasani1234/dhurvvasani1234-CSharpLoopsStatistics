@@ -1,0 +1,14 @@
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\bin\Debug\net6.0\LAB2.exe
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\bin\Debug\net6.0\LAB2.deps.json
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\bin\Debug\net6.0\LAB2.runtimeconfig.json
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\bin\Debug\net6.0\LAB2.dll
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\bin\Debug\net6.0\LAB2.pdb
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.AssemblyInfoInputs.cache
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.AssemblyInfo.cs
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.csproj.CoreCompileInputs.cache
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.dll
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\refint\LAB2.dll
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.pdb
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\LAB2.genruntimeconfig.cache
+D:\WD LEVEL-2\PROGRAMMING\LAB2\LAB2\obj\Debug\net6.0\ref\LAB2.dll
